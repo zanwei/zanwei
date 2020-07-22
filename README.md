@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 👨🏻‍💻 A Code beginner, UX Designer based in Shanghai.
 
