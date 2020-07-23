@@ -1,10 +1,11 @@
-### Hey there 👋 <img src="https://github.com/zanwei/zanwei/blob/master/about.gif" width="40px">
-
-
+### Hey there 👋 
 
 👨🏻‍💻 A Code beginner, UX Designer based in Shanghai.
 
 🤔 Check out [zanwei.guo](https://zanweiguo.com) to get know more about me.
+
+
+<img src="https://github.com/zanwei/zanwei/blob/master/about.gif" width="40px">
 
 
 <!--
