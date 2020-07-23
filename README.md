@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<img src="about.gif" alt="" width="30px">
+<img src="https://github.com/zanwei/about.gif" width="40px">
 
 👨🏻‍💻 A Code beginner, UX Designer based in Shanghai.
 
