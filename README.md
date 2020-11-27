@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=zanwei)
+
 <img src="https://github.com/zanwei/zanwei/blob/master/about.gif" width="80px">
 
 ### Hey there 👋 
