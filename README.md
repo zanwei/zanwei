@@ -5,7 +5,7 @@
 
 A Code beginner, UX Designer based in Shanghai.
 
-Check out [zanwei.guo](https://zanweiguo.com) to get know more about me.
+Check out [zanwei.guo](https://bento.me/zw) to get know more about me.
 
 
 
