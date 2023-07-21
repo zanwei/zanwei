@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=zanwei)
 
+![svg-drawing](https://github.com/zanwei/zanwei/assets/40333372/6b7f69b8-a913-440a-89e5-888977aa84ec)
+
 
 ### Hey there 👋 
 
